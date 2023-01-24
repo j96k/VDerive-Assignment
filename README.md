@@ -12,3 +12,5 @@ similar.
 I appreciate you giving me this assignment because it teaches me a lot. I've finished 
 the training and detection, which I've shared with you. I'll try to finish the remaining 
 portion, after which I'll share it with you again
+
+If there are any issues or code ideas, please let me know because it's crucial for me to know so that I can fix it.
